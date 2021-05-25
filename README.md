@@ -6,12 +6,12 @@
 
 #### 中文
 
-- [讚美之泉](https://www.youtube.com/channel/UC00EceQGGCMucNvwOS-jQ7A)
+- [讚美之泉](https://www.youtube.com/channel/UC00EceQGGCMucNvwOS-jQ7A) - 這個在華人教會中大家都很熟悉了，固定每年中會出一張新專輯，詩歌簡單易唱
 - [讚美之泉兒童](https://www.youtube.com/channel/UC2KCkfsRUglpjc8tRM65DtQ) - 這幾年讚美之泉兒童也出了幾張專輯，裡面有些原創詩歌是只有兒童才有的喔
-- [約書亞樂團](https://www.youtube.com/channel/UC93m2yLo9G4-ZdFMgrdS2LA)
-- [台北靈糧堂 Bread of Life Christian Church in Taipei](https://www.youtube.com/channel/UClDpY60wBFG-j2VEI4kQplQ) - 台北靈糧堂主頻道
+- [約書亞樂團](https://www.youtube.com/channel/UC93m2yLo9G4-ZdFMgrdS2LA) - 有專輯也有現場敬拜影片
+- [台北靈糧堂 Bread of Life Christian Church in Taipei](https://www.youtube.com/channel/UClDpY60wBFG-j2VEI4kQplQ) - 台北靈糧堂主頻道，可以找到主日、禱告會、職場等各種敬拜影片
 - [BOL Youth and Young Adult Ministry](https://www.youtube.com/user/holywood2be) - 台北靈糧堂的青少年牧區，大部份是 Live 的敬拜影片
-- [生命河靈糧堂](https://www.youtube.com/channel/UCeOxIcPOMW4jO64C2lTSl-w)
+- [生命河靈糧堂](https://www.youtube.com/channel/UCeOxIcPOMW4jO64C2lTSl-w) - 生命河敬拜影片
 - [台北靈糧堂雅歌詩班](https://www.youtube.com/channel/UC3fF55jVlUD3as0CaiAyZ1A)
 - [KUA GLOBAL 跨越](https://www.youtube.com/channel/UC7kIJ3kuhr1zMYQU4R67Iyw)
 - [新店行道會 TOPCHURCH](https://www.youtube.com/channel/UChntiluSnsVAWBBhmB-m0iQ)
