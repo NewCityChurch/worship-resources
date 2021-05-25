@@ -4,6 +4,10 @@
 
 全部都是 YouTube 頻道，有些教會沒有把敬拜分成另一個頻道，所以需要進去頻道裡找。例如生命河靈糧堂，敬拜音樂跟主日講道及其他影片是放在一起的，但敬拜音樂是按著專輯分成播放清單放在同一個頻道裡
 
+> 詩歌難度簡易參考: 翻譯詩歌(Bethel, Hillsong) >= 約書亞 > 讚美之泉 > 生命河靈糧堂
+
+> 一些早期的翻譯詩歌其實並不難彈唱，反而是這幾年的基督教流行音樂普遍都比較難
+
 #### 中文
 
 - [讚美之泉](https://www.youtube.com/channel/UC00EceQGGCMucNvwOS-jQ7A) - 這個在華人教會中大家都很熟悉了，固定每年中會出一張新專輯，詩歌簡單易唱
@@ -38,3 +42,14 @@
 
 - [陳韋燁敬拜教學系統](https://www.youtube.com/channel/UCEJ6F6o4dAnV9f3C9YGxIQg)
 - [WorshipU by Bethel Music](https://www.youtube.com/channel/UCp7yiXtvaB3UmVMDEelFgWA)
+
+## 投影片
+
+- [讚美之泉](https://legacy.sop.org/powerpoint/)
+- [生命河靈糧堂](https://www.rolcc.net/opencart/index.php?route=product/category&path=18) - 生命河的每張專輯後面都有 PTT 可以下載
+- [慕主音樂](https://www.frcc.us/music/creation/)
+
+## 歌詞
+
+- [約書亞樂團](https://www.joshua.com.tw/web/?menu=album&menu_id=27)
+- [Christian Study](http://www.christianstudy.com/) - 也可以用 Google 直接搜尋，例如： 能不能 christanstudy.com
