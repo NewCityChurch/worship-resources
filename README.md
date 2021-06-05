@@ -24,9 +24,10 @@
 - [火把音樂 Torch Music](https://www.youtube.com/channel/UCfKhYkv7rd-YNuz3bnWLB5g)
 - [祝瑞蓮 琴與爐敬拜團隊 Josie Chu Music](https://www.youtube.com/channel/UC5Ovvw_MKLDMO1WVlV0zKzg)
 - [基恩敬拜 Amazing Grace Worship](https://www.youtube.com/channel/UCGpiURDJzGW0KLobc_pQLpw)
-- [因約敬拜團 Covenant Worship](https://www.youtube.com/channel/UCzDGu50DV3IvG_YzkBZejDg)
+- [因約敬拜團 Covenant Worship](https://www.youtube.com/channel/UCzDGu50DV3IvG_YzkBZejDg) - 新恩堂新成立的敬拜團，有一些原創的詩歌
 - [旌旗教會](https://www.youtube.com/channel/UCLkrfxHnrqA2hu01i7SbP_w)
 - [SHINE TAIWAN](https://www.youtube.com/channel/UCft3VWHAWROtaBwFV-iOg-Q)
+- [Melody Hwang 黃友聞](https://www.youtube.com/channel/UCxlE7f7pmIEpbeEDNttUCVw) - 詩歌創作者，之前在美國慕主先峰教會服事，最近回到台灣
 
 #### 英文
 
@@ -42,6 +43,7 @@
 
 - [陳韋燁敬拜教學系統](https://www.youtube.com/channel/UCEJ6F6o4dAnV9f3C9YGxIQg)
 - [WorshipU by Bethel Music](https://www.youtube.com/channel/UCp7yiXtvaB3UmVMDEelFgWA)
+- [讚美之泉音樂教室 Stream of Praise Music Classroom](https://www.youtube.com/playlist?list=PLEY_M7xVVeAsUf1wPedgks59kdri-Mh32) - 以教導讚美之泉的詩歌為主
 
 ## 投影片
 
@@ -53,3 +55,15 @@
 
 - [約書亞樂團](https://www.joshua.com.tw/web/?menu=album&menu_id=27)
 - [Christian Study](http://www.christianstudy.com/) - 也可以用 Google 直接搜尋，例如： 能不能 christanstudy.com
+
+## Chrome 外掛
+
+推薦幾個方便的 Chrome 外掛，自己敬拜或是小組敬拜都很方便
+
+- [AdBlock — best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - 可以移除大部份的靜態廣告，像是 Google 廣告
+- [Adblock for Youtube™](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - 移除所有影片裡的廣告，包含開場/影片中或甚至轉換影片的廣告
+- [YouTube NonStop](https://chrome.google.com/webstore/detail/youtube-nonstop/nlkaejimjacpillmajjnopmpbkbnocid) - 防止 YouTube 停止你的影片，可以讓影片持續不斷的撥放
+
+## YouTube
+
+- [YouTube 鍵盤快速鍵](https://support.google.com/youtube/answer/7631406?hl=zh-Hant) - 特別是在用 YouTube 帶敬拜的時候，記得幾個鍵盤快速鍵可以讓整個敬拜流程順暢很多喔
