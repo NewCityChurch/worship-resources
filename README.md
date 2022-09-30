@@ -64,6 +64,13 @@
 - [Adblock for Youtube™](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - 移除所有影片裡的廣告，包含開場/影片中或甚至轉換影片的廣告
 - [YouTube NonStop](https://chrome.google.com/webstore/detail/youtube-nonstop/nlkaejimjacpillmajjnopmpbkbnocid) - 防止 YouTube 停止你的影片，可以讓影片持續不斷的撥放
 
+## Brave 瀏覽器
+
+另外一個可以擋 YouTube 廣告的方式就是直接安裝 Brave 這個瀏覽器，這個瀏覽器是以 Chrome 的核心為基礎來打造的
+所以速度跟介面都很類似，但內建了擋廣告跟可以更安全的瀏覽網頁的幾個很不錯的功能。更棒的是，它也可以安裝 Chrome 的外掛套件喔，所以可以無痛從 Chrome 直接轉換過來
+
+https://brave.com/
+
 ## YouTube
 
 - [YouTube 鍵盤快速鍵](https://support.google.com/youtube/answer/7631406?hl=zh-Hant) - 特別是在用 YouTube 帶敬拜的時候，記得幾個鍵盤快速鍵可以讓整個敬拜流程順暢很多喔
