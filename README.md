@@ -19,6 +19,7 @@
 - [KUA GLOBAL 跨越](https://www.youtube.com/channel/UC7kIJ3kuhr1zMYQU4R67Iyw)
 - [新店行道會 TOPCHURCH](https://www.youtube.com/channel/UChntiluSnsVAWBBhmB-m0iQ)
 - [旌旗教會](https://www.youtube.com/channel/UCLkrfxHnrqA2hu01i7SbP_w)
+- [The Hope](https://www.youtube.com/TheHopeTV)
 
 ##### 樂團或組職
 
@@ -36,6 +37,7 @@
 - [小羊詩歌 | 基音原創](https://www.youtube.com/@W247)
 - [GOOD TV 好音樂](https://www.youtube.com/@goodtvseraphim)
 - [CCPM 中華祈禱院](https://www.youtube.com/@CCPMovie)
+- [旌旗音樂 Banner Music](https://www.youtube.com/@bannermusic4294)
 
 #### 英文
 
@@ -73,7 +75,7 @@
 ## 歌詞
 
 - [約書亞樂團](https://www.joshua.com.tw/web/?menu=album&menu_id=27)
-- [Christian Study](http://www.christianstudy.com/) - 也可以用 Google 直接搜尋，例如： 能不能 christanstudy.com
+- [Christian Study](http://www.christianstudy.com/) - 也可以用 Google 直接搜尋，例如： site: christanstudy.com 能不能
 
 ## Chrome 外掛
 
