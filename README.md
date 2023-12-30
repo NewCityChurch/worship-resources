@@ -53,7 +53,8 @@
 
 #### 中文
 
-- [陳韋燁敬拜教學系統](https://www.youtube.com/channel/UCEJ6F6o4dAnV9f3C9YGxIQg)
+- [CWY.WORSHiP 敬拜學院](https://www.youtube.com/@CWYWORSHiP)
+  - [新手主領，你該注意這三件事](https://www.youtube.com/watch?v=iG3XVKNbOFc&t=6s&ab_channel=CWY.WORSHiP%E6%95%AC%E6%8B%9C%E5%AD%B8%E9%99%A2)
 - [讚美之泉音樂教室 Stream of Praise Music Classroom](https://www.youtube.com/playlist?list=PLEY_M7xVVeAsUf1wPedgks59kdri-Mh32) - 以教導讚美之泉的詩歌為主
 
 #### 英文
@@ -79,7 +80,9 @@
 
 ## Chrome 外掛
 
-推薦幾個方便的 [Chrome](https://www.google.com/chrome/) 外掛，自己敬拜或是小組敬拜都很方便
+~~推薦幾個方便的 [Chrome](https://www.google.com/chrome/) 外掛，自己敬拜或是小組敬拜都很方便~~
+
+更新：YouTube 在最近幾個月已經開始封鎖使用 AdBlock 之類的擋廣告外掛，所以已經無法使用這類的工具來擋廣告。目前所剩的方法大概就是 1) 買 YouTube Premium 跟 2) 用 Brave 瀏覽器(下面有介紹)
 
 - [AdBlock — best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - 可以移除大部份的靜態廣告，像是 Google 廣告
 - [Adblock for Youtube™](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - 移除所有影片裡的廣告，包含開場/影片中或甚至轉換影片的廣告
